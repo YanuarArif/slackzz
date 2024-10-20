@@ -1,0 +1,8 @@
+Project ini diambil dari video YouTube Channel code with lari
+URL: https://youtu.be/3D8Q_BMurfs?si=Nu97OLLHEpcegAbK
+
+SUPABASE DOCS - SSR
+https://supabase.com/docs/guides/auth/server-side/creating-a-client
+
+SUPABASE DOCS - OAuth SSR
+https://supabase.com/docs/guides/auth/server-side/nextjs?queryGroups=router&router=app
